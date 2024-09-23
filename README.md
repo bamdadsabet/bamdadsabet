@@ -1,18 +1,13 @@
-# Salame man be to yaare ghadimi :)
+### Salame man be to yaare ghadimi :)
 
-## Hi There !
+### Hey! I'm Bamdad
 
-I'm Bamdad Sabet, a passionate software developer with a focus on [primary area of interest]. My journey in tech began with [starting point], and since then, I've been driven by the desire to [brief motivation].
+I'm Bamdad Sabet, a passionate software developer focusing on Front-end engineering.
+ 
+### Contact:
 
-## Skills
+- Email: [bamdadsabet@gmail.com](mailto:bamdadsabet@gmail.com)
+- LinkedIn: [Bamdad Sabet](https://linkedin.com/in/bamdad-sabet-946755200/)
 
-- Programming Languages: [list languages]
-- Frameworks/Libraries: [list relevant technologies]
-- Databases: [list databases]
-- Operating Systems: [list OSes]
-- Tools: [list development tools]
-- 
-## Contact
-
-- Email: [your@email.com](mailto:your@email.com)
-- LinkedIn: [linkedin.com/in/yourlinkedinprofile](https://linkedin.com/in/yourlinkedinprofile)
+### Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=bamdadsabet&theme=nord&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
